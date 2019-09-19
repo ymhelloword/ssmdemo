@@ -3,7 +3,6 @@
         "http://java.sun.com/dtd/web-app_2_3.dtd" >
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-  <!-- 编码过滤器 -->
   <context-param>
     <param-name>contextConfigLocation</param-name>
     <param-value>classpath*:spring-mvc.xml</param-value>
